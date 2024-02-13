@@ -1,4 +1,4 @@
-# Fertilizer Plant Production Function Analysis.
+# Production Analysis for the Agribusiness Sector.
 ## Introduction.
 The Cobb-Douglas production function has been widely applied in various fields of economics, including macroeconomics, microeconomics, and growth theory. It is a fundamental tool for understanding production processes' relationships between inputs and outputs.
 The Cobb-Douglas production function is often represented as follows: **Q=A*K^α*L^(1−α)** where based on the gathered data: Q is the output (quantity of fertilizer produced in 000 TONS), A is a constant is the  capital (K)input ($000), L is the labor input (000 Worker Hours), α is the output elasticity of capital, and1−α is the output elasticity of labor.
@@ -16,7 +16,7 @@ This complex model can be simplified by undertaking a series of logarithm comput
      - m and n are the coefficients representing the slopes of the lines for the respective independent variables.
      - b is the y-intercept, representing the value of y when both x1 and x2 are zero.
      
-## Problem Statement.
+## Problem Statement and DataSource.
 The objective of this analysis is to estimate the Cobb-Douglas production function for fertilizer plants based on data collected from 15 different plants. The dataset1 sampled information on three key variables from each plant;
   1. OUTPUT (000 TONS): This represents the output of each fertilizer plant, measured in thousands of tons. It indicates the quantity of fertilizer produced by each plant;
   2. CAPITAL ($000): represents the capital input for each fertilizer plant, measured in thousands of dollars. It reflects the financial investment in equipment, machinery, and other capital resources;
@@ -43,8 +43,11 @@ This analysis will offer valuable insights for fertilizer plant management, poli
 7. **Quantitative Analysis:** Competency in quantitative analysis is evident through the manipulation and interpretation of numerical data, including logarithmic transformations and calculations of output elasticities.
 8. **Understanding of Managerial Economics:** The analysis is conducted within the framework of managerial economics, demonstrating an understanding of how economic principles and models can be applied to managerial decision-making in production processes.
 
-## Data Sourcing.
 ## Data Transformation.
+
+
+![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/9ad558db-4a0b-404e-a36c-dceb650bcbaa)
+
 ## Modeling.
 ## Analysis and Visualizations.
 ## Conclusion and Recommendation.
