@@ -17,7 +17,7 @@ This complex model can be simplified by undertaking a series of logarithm comput
      - b is the y-intercept, representing the value of y when both x1 and x2 are zero.
      
 ## Problem Statement and DataSource.
-The objective of this analysis is to estimate the Cobb-Douglas production function for fertilizer plants based on data collected from 15 different plants. The dataset1 sampled information on three key variables from each plant;
+The objective of this analysis is to estimate the production function of fertilizer plants based on data collected from 15 different plants. The dataset1 sampled information on three key variables from each plant;
   1. OUTPUT (000 TONS): This represents the output of each fertilizer plant, measured in thousands of tons. It indicates the quantity of fertilizer produced by each plant;
   2. CAPITAL ($000): represents the capital input for each fertilizer plant, measured in thousands of dollars. It reflects the financial investment in equipment, machinery, and other capital resources;
   3. LABOR (000 WORKER HOURS): The column represents the labor input for each fertilizer plant, measured in thousands of worker hours. It indicates the amount of human labor employed in the production process.
@@ -44,9 +44,9 @@ This analysis will offer valuable insights for fertilizer plant management, poli
 8. **Understanding of Managerial Economics:** The analysis is conducted within the framework of managerial economics, demonstrating an understanding of how economic principles and models can be applied to managerial decision-making in production processes.
 
 ## Data Transformation.
-
-
+Recall the logarithmic transformation that generated a multilinear equation for our model, y= mx1+nx2+c **where** ln(Q)=y, ln(A)=c, α*ln(K) =mx1 and (1-α)*ln(L) is nx2. SInce dataset1 presents these variable actual figures, we convert these values to natural logarithmic state using the excel funtion. 
 ![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/9ad558db-4a0b-404e-a36c-dceb650bcbaa)
+
 
 ## Modeling.
 ## Analysis and Visualizations.
