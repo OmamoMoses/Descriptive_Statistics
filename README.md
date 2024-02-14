@@ -44,10 +44,20 @@ This analysis will offer valuable insights for fertilizer plant management, poli
 8. **Understanding of Managerial Economics:** The analysis is conducted within the framework of managerial economics, demonstrating an understanding of how economic principles and models can be applied to managerial decision-making in production processes.
 
 ## Data Transformation.
-Recall the logarithmic transformation that generated a multilinear equation for our model, y= mx1+nx2+c **where** ln(Q)=y, ln(A)=c, α*ln(K) =mx1 and (1-α)*ln(L) is nx2. SInce dataset1 presents these variable actual figures, we convert these values to natural logarithmic state using the excel funtion. 
+Recall the logarithmic transformation that generated a multilinear equation for our model, y= mx1+nx2+c **where** ln(Q)=y, ln(A)=c, α*ln(K) =mx1 and (1-α)*ln(L) is nx2. The dataset1 presents these variables' actual figures, we convert these values to a logarithmic state using the LOG formulae.
+
 ![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/9ad558db-4a0b-404e-a36c-dceb650bcbaa)
 
-
+  **Take note of the logarithmic state of the data**, further in the report we will refer to the actual values of the variables.
+  
 ## Modeling.
+
+![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/ab3d8283-fbad-46b2-8851-8192e427e922)
+
+![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/65bdac9f-11f1-4fac-ae75-729a7ab3a2b3)
+
+![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/d4c07d0a-f2de-42b1-b568-7f0d1750ee24)
+
+
 ## Analysis and Visualizations.
 ## Conclusion and Recommendation.
