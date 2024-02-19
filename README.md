@@ -51,8 +51,11 @@ Recall the logarithmic transformation that generated a multilinear equation for 
   **Take note of the logarithmic state of the data**, further in the report we will refer to the actual values of the variables.
   
 ## Modeling.
+The steps presented below illustrate how to perform a regression analysis. A regression analysis seeks to explain the relationship between one dependent variable and one or more independent variables.
 
 ![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/ab3d8283-fbad-46b2-8851-8192e427e922)
+
+Based on the model equation presented above for a linear relationship, the dependent variable is presented as ln(Q) and the independent variables as ln(K) and ln(L).
 
 ![image](https://github.com/OmamoMoses/Managerial_Economics_Sample1/assets/129588272/65bdac9f-11f1-4fac-ae75-729a7ab3a2b3)
 
